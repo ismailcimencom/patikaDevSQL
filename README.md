@@ -1,1 +1,1 @@
-# patikaDevSQL
+# patikaDevSQL Ödev Çözümleri
