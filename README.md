@@ -1,1 +1,1 @@
-# patikaDevSQL Ödev Çözümleri
+#Patika Dev SQL Ödev Çözümleri
